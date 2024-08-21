@@ -1,0 +1,35 @@
+
+.slideimg{
+    height: 710px;
+    width: 1860px;
+}
+.item{
+  
+    margin-left: 350px;
+    font-size: 25px;
+   
+}
+.reachus{
+    height: 56px;
+    width: 196px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 30px 30px 5px 30px;
+    transition: 0.7s;
+    background-color: blue;
+}
+.reachus:hover{
+    background-color: rgb(137, 35, 52);
+}
+.p4{
+    display: flex;
+    margin-right: 4px;
+}
+.divimg{
+    width:50px;
+    height:50px;
+    margin-right: 10px;
+    background-color: darkred;
+    border-radius: 30px 30px 0px 30px;
+}

@@ -1,0 +1,169 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slick-slide {
+    margin: 0 15px;
+} 
+  /* .slick-list {
+    margin: 0 -15px; 
+  }
+  
+  .slick-prev, .slick-next {
+    z-index: 1; 
+  } */
+
+ .caroselItem23 {
+    background-color: red;
+}
+
+.transi {
+    transition: 0.5s linear;
+}
+.h-450{
+    height: 140px;
+}
+.bggrey {
+    background-color: grey;
+}
+
+.bgblack {
+    background-color: black;
+}
+
+.threesiderounded {
+    border-radius: 20px 20px 0px 20px;
+}
+     .marign{
+    margin-top: 60px;
+    margin-left: 25px;
+} 
+ .mt-5{
+    margin-bottom: 40px;
+} 
+ .slick1{
+    height: 250px;
+    width: 50px;
+    background-color: pink;
+    margin-bottom: 10px;
+    border-radius: 10px 10px 0px 0px;
+    border: solid 25px 5px 5px 5px;
+ 
+    
+    
+   
+   
+}
+.body1{
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 25px;
+    
+    height: 245px;
+    padding: 30px;
+} 
+.slick2{
+    height: 250px;
+    width: 50px;
+    background-color: gray;
+    margin-bottom: 10px;
+    border-radius: 10px 10px 0px 0px;
+  
+   
+   
+}
+.body2{
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 25px;
+    
+    height: 245px;
+    padding: 30px;
+}
+.slick3{
+    height: 250px;
+    width: 50px;
+    background-color: lightseagreen;
+    margin-bottom: 10px;
+    border-radius: 10px 10px 0px 0px;
+ 
+   
+}
+.body3{
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 25px;
+    
+    height: 245px;
+    padding: 30px;
+}
+.slick4{
+    height: 250px;
+    width: 50px;
+    background-color: rgb(238, 238, 79);
+    margin-bottom: 10px;
+    border-radius: 10px 10px 0px 0px;
+  
+   
+}
+.body4{
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 25px;
+    
+    height: 245px;
+    padding: 30px;
+}
+.bgpink{
+    background-color: rgb(161, 73, 87);
+}
+.bgblue{
+    background-color: rgb(27, 27, 130);
+}
+.bgblue1{
+    background-color: blue;
+}
+.background{
+    background-image: url('./Assest/industries-bg.7f5aa4ec9742a09402f1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    width: 80%;
+    margin-left: 110px;
+    background-attachment: fixed;
+    
+}
+.scrollable-content::-webkit-scrollbar {
+    width: 10px;
+    margin-right: 10px;
+    
+
+  }
+  
+  .scrollable-content::-webkit-scrollbar-thumb {
+    background-color: rgba(214, 207, 210, 0.8); 
+    border-radius: 5px;
+    
+  }
+  
+  .scrollable-content::-webkit-scrollbar-track {
+
+    border-radius: 5px;
+   
+  }
+  .bgwhite{
+    background-color: white;
+    border-radius: 15px 15px 0px 0px;
+
+  }
+  .textblack{
+    color: black;
+  }
+  .backcompany{
+    background-image:url('./Assest/company\ image.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+    width: 100%;
+    background-attachment: fixed;
+  }

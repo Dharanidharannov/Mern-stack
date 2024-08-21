@@ -1,0 +1,38 @@
+.p1{
+    transition: 0.7s;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+.p1:hover{
+  color: #fca5a5;
+  
+}
+.p2{
+    transition: 0.7s;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+.p2:hover{
+    color: rgb(77, 108, 139)
+}
+.p3{
+    transition:0.7s;
+    cursor: pointer;
+    margin-bottom: 15px;
+
+}
+.p3:hover{
+    color: rgb(68, 138, 68);
+}
+.p4{
+    transition: 0.7s;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+.p4:hover{
+    color: rgb(245, 245, 66);
+}
+.child{
+    display: flex;
+    
+}
